@@ -22,4 +22,6 @@ Menu:
 * Control Camera
 * Control watering
 * Control fans
+* Monitoring soil moisture
+* Monitoring temperature
               

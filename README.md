@@ -1,5 +1,5 @@
 # RPi-Greenhouse
-Work in progress
+Work in progress ...
 ## Item list:
 * raspberry pi 4 
 * soil moisture sensor

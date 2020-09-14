@@ -1,6 +1,6 @@
 # RPi-Greenhouse
 ## Item list:
-* rpi 
+* raspberry pi 4 
 * soil moisture sensor
 * dht sensor(temperature & humidity)
 * mini water pumps
